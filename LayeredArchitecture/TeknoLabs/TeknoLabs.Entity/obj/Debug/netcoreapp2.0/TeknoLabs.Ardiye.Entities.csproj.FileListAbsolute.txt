@@ -1,0 +1,14 @@
+C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Entity\bin\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Entities.deps.json
+C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Entity\bin\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Entities.dll
+C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Entity\bin\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Entities.pdb
+C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Entity\bin\Debug\netcoreapp2.0\TeknoLabs.Core.dll
+C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Entity\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll
+C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Entity\bin\Debug\netcoreapp2.0\TeknoLabs.Core.pdb
+C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Entity\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.xml
+C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Entity\obj\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Entities.csprojAssemblyReference.cache
+C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Entity\obj\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Entities.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Entity\obj\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Entities.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Entity\obj\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Entities.AssemblyInfo.cs
+C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Entity\obj\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Entities.csproj.CopyComplete
+C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Entity\obj\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Entities.dll
+C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Entity\obj\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Entities.pdb

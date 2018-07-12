@@ -1,0 +1,16 @@
+C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Ardiye.Business\bin\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Business.deps.json
+C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Ardiye.Business\bin\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Business.dll
+C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Ardiye.Business\bin\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Business.pdb
+C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Ardiye.Business\obj\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Business.csprojAssemblyReference.cache
+C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Ardiye.Business\obj\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Business.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Ardiye.Business\obj\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Business.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Ardiye.Business\obj\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Business.AssemblyInfo.cs
+C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Ardiye.Business\obj\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Business.dll
+C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Ardiye.Business\obj\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Business.pdb
+C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Ardiye.Business\bin\Debug\netcoreapp2.0\TeknoLabs.Ardiye.DataAccess.dll
+C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Ardiye.Business\bin\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Entities.dll
+C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Ardiye.Business\bin\Debug\netcoreapp2.0\TeknoLabs.Core.dll
+C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Ardiye.Business\bin\Debug\netcoreapp2.0\TeknoLabs.Ardiye.DataAccess.pdb
+C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Ardiye.Business\bin\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Entities.pdb
+C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Ardiye.Business\bin\Debug\netcoreapp2.0\TeknoLabs.Core.pdb
+C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Ardiye.Business\obj\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Business.csproj.CopyComplete
