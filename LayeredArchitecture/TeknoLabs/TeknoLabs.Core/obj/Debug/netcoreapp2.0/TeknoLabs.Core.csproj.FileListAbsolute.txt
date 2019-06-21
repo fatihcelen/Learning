@@ -10,3 +10,12 @@ C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Core\obj\Debug\
 C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Core\obj\Debug\netcoreapp2.0\TeknoLabs.Core.csproj.CopyComplete
 C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Core\obj\Debug\netcoreapp2.0\TeknoLabs.Core.dll
 C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Core\obj\Debug\netcoreapp2.0\TeknoLabs.Core.pdb
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Core\obj\Debug\netcoreapp2.0\TeknoLabs.Core.csprojAssemblyReference.cache
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Core\obj\Debug\netcoreapp2.0\TeknoLabs.Core.csproj.CoreCompileInputs.cache
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Core\obj\Debug\netcoreapp2.0\TeknoLabs.Core.AssemblyInfoInputs.cache
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Core\obj\Debug\netcoreapp2.0\TeknoLabs.Core.AssemblyInfo.cs
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Core\obj\Debug\netcoreapp2.0\TeknoLabs.Core.dll
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Core\obj\Debug\netcoreapp2.0\TeknoLabs.Core.pdb
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Core\bin\Debug\netcoreapp2.0\TeknoLabs.Core.deps.json
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Core\bin\Debug\netcoreapp2.0\TeknoLabs.Core.dll
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Core\bin\Debug\netcoreapp2.0\TeknoLabs.Core.pdb

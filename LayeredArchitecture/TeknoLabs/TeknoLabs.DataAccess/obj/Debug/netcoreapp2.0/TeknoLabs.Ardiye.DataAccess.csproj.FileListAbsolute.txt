@@ -12,3 +12,17 @@ C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.DataAccess\obj\
 C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.DataAccess\bin\Debug\netcoreapp2.0\TeknoLabs.Ardiye.DataAccess.pdb
 C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.DataAccess\obj\Debug\netcoreapp2.0\TeknoLabs.Ardiye.DataAccess.dll
 C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.DataAccess\obj\Debug\netcoreapp2.0\TeknoLabs.Ardiye.DataAccess.pdb
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.DataAccess\bin\Debug\netcoreapp2.0\TeknoLabs.Ardiye.DataAccess.deps.json
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.DataAccess\bin\Debug\netcoreapp2.0\TeknoLabs.Ardiye.DataAccess.dll
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.DataAccess\bin\Debug\netcoreapp2.0\TeknoLabs.Ardiye.DataAccess.pdb
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.DataAccess\bin\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Entities.dll
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.DataAccess\bin\Debug\netcoreapp2.0\TeknoLabs.Core.dll
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.DataAccess\bin\Debug\netcoreapp2.0\TeknoLabs.Core.pdb
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.DataAccess\bin\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Entities.pdb
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.DataAccess\obj\Debug\netcoreapp2.0\TeknoLabs.Ardiye.DataAccess.csprojAssemblyReference.cache
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.DataAccess\obj\Debug\netcoreapp2.0\TeknoLabs.Ardiye.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.DataAccess\obj\Debug\netcoreapp2.0\TeknoLabs.Ardiye.DataAccess.AssemblyInfoInputs.cache
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.DataAccess\obj\Debug\netcoreapp2.0\TeknoLabs.Ardiye.DataAccess.AssemblyInfo.cs
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.DataAccess\obj\Debug\netcoreapp2.0\TeknoLabs.Ardiye.DataAccess.csproj.CopyComplete
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.DataAccess\obj\Debug\netcoreapp2.0\TeknoLabs.Ardiye.DataAccess.dll
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.DataAccess\obj\Debug\netcoreapp2.0\TeknoLabs.Ardiye.DataAccess.pdb

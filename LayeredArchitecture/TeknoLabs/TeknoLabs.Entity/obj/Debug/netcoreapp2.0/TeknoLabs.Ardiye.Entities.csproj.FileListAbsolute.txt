@@ -12,3 +12,15 @@ C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Entity\obj\Debu
 C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Entity\obj\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Entities.csproj.CopyComplete
 C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Entity\obj\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Entities.dll
 C:\xampp\htdocs\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Entity\obj\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Entities.pdb
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Entity\bin\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Entities.deps.json
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Entity\bin\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Entities.dll
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Entity\bin\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Entities.pdb
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Entity\bin\Debug\netcoreapp2.0\TeknoLabs.Core.dll
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Entity\bin\Debug\netcoreapp2.0\TeknoLabs.Core.pdb
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Entity\obj\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Entities.csprojAssemblyReference.cache
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Entity\obj\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Entities.csproj.CoreCompileInputs.cache
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Entity\obj\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Entities.AssemblyInfoInputs.cache
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Entity\obj\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Entities.AssemblyInfo.cs
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Entity\obj\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Entities.csproj.CopyComplete
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Entity\obj\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Entities.dll
+C:\Users\fatih\source\repos\Learning\LayeredArchitecture\TeknoLabs\TeknoLabs.Entity\obj\Debug\netcoreapp2.0\TeknoLabs.Ardiye.Entities.pdb
