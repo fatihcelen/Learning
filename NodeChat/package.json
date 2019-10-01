@@ -1,0 +1,17 @@
+{
+  "name": "nodechat",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "ts-node ./src/server.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^12.7.8",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.3",
+    "ts-node": "^8.4.1",
+    "typescript": "^3.6.3"
+  }
+}
