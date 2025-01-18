@@ -1,0 +1,6 @@
+@webapiexample_HostAddress = http://localhost:5103
+
+GET {{webapiexample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
