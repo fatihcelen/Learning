@@ -45,6 +45,16 @@ app.MapControllerRoute(
 //     .WithName("GetWeatherForecast")
 //     .WithOpenApi();
 
+SeedDatabase(app);
+
+void SeedDatabase(WebApplication webApplication)
+{
+    using var scope = app.Services.CreateScope();
+    var services = scope.ServiceProvider;
+    var moviesContext = services.GetRequiredService<MovieAPIContext>();
+    MoviesContextSeed.SeedAsync(moviesContext);
+}
+
 app.Run();
 
 // record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
