@@ -1,44 +1,62 @@
+using Elastic.Clients.Elasticsearch;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+ElasticsearchClientSettings settings = new ElasticsearchClientSettings(new Uri("http://localhost:9200"));
+settings.DefaultIndex("products");
+
+ElasticsearchClient client = new ElasticsearchClient(settings);
+
+client.IndexAsync("products", i => i.Index("products"));
+
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+app.UseSwagger();
+app.UseSwaggerUI();
 
-app.UseHttpsRedirection();
-
-var summaries = new[]
+app.MapGet("/products/create", async (CreateProductDto request, CancellationToken cancellationToken) =>
 {
-    "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-};
+    Product product = new()
+    {
+        Name = request.Name,
+        Price = request.Price,
+        Stock = request.Stock,
+        Description = request.Description,
+    };
 
-app.MapGet("/weatherforecast", () =>
+    CreateRequest<Product> createRequest = new(product.Id.ToString())
+    {
+        Document = product
+    };
+    
+    CreateResponse response = await client.CreateAsync(createRequest, cancellationToken);
+
+    return Results.Ok(response.Id);
+});
+
+app.MapGet("/products/getall", async (CancellationToken cancellationToken) =>
 {
-    var forecast =  Enumerable.Range(1, 5).Select(index =>
-        new WeatherForecast
-        (
-            DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-            Random.Shared.Next(-20, 55),
-            summaries[Random.Shared.Next(summaries.Length)]
-        ))
-        .ToArray();
-    return forecast;
-})
-.WithName("GetWeatherForecast")
-.WithOpenApi();
+    SearchResponse<Product> response = await client.SearchAsync<Product>("products", cancellationToken);
+    return Results.Ok(response.Documents);
+});
 
 app.Run();
 
-record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
+
+class Product
 {
-    public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
+    public Product()
+    {
+        Id = Guid.NewGuid();
+    }
+    public Guid Id { get; set; }
+    public string Name { get; set; } = default!;
+    public decimal Price { get; set; }
+    public int Stock { get; set; }
+    public string Description { get; set; } = default!;
 }
+
+record CreateProductDto(string Name, decimal Price, int Stock, string Description);
